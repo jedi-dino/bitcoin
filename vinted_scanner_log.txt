@@ -97,3 +97,12 @@ Store Integration: Active
 
 ================================================================================
 
+VINTED DEAL SCANNER STARTED
+Start Time: 2025-06-12 14:30:07
+Service: Vinted Deal Scanner
+Status: Scanner initialized and ready
+Store Integration: Active
+==================================================
+
+================================================================================
+
