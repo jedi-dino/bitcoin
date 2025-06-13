@@ -331,3 +331,12 @@ Store Integration: Active
 
 ================================================================================
 
+VINTED DEAL SCANNER STARTED
+Start Time: 2025-06-13 11:34:12
+Service: Vinted Deal Scanner
+Status: Scanner initialized and ready
+Store Integration: Active
+==================================================
+
+================================================================================
+
